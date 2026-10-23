@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <h3>Tecnologias e Ferramentas 🚀</h3>
+  <h3>Tecnologias e Ferramentas <img width="35" src="https://github.com/user-attachments/assets/f1069d52-0b99-487c-9f04-d1272f38a08b" /> </h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-  <h3>Minhas Estatísticas <img width="800" height="800" alt="Design sem nome" src="https://github.com/user-attachments/assets/e075aa53-9d06-4a8b-8fe4-4d59f3562eb5" /> </h3>
+  <h3>Minhas Estatísticas <img width="35" src="https://github.com/user-attachments/assets/e075aa53-9d06-4a8b-8fe4-4d59f3562eb5" /> </h3>
   <img src="https://github-readme-stats.vercel.app/api?username=LuizFNolasco&show_icons=true&theme=tokyonight&hide_border=true&hide=issues,prs&locale=pt-br" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFNolasco&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" width="48%" />
 </div>
@@ -26,7 +26,7 @@
 <br>
 
 <div align="center">
-  <h3>Contato <img width="800" height="800" alt="Design sem nome(1)" src="https://github.com/user-attachments/assets/f1069d52-0b99-487c-9f04-d1272f38a08b" /> </h3>
+  <h3>Contato </h3>
   <a href="https://www.linkedin.com/in/luiz-felipe-pereira-nolasco/?isSelfProfile=true">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
