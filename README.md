@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="736" height="414" alt="imagem1" src="https://github.com/user-attachments/assets/a324a6de-52c5-4a79-8dc2-0f0033f2c3f8" />
+  <img width="1152" height="648" alt="Olá, eu sou Luiz Felipe  Atualmente, entusiasta da área de dados" src="https://github.com/user-attachments/assets/648149cd-7de1-4f25-930e-b16dd93e7576" />
 </div>
 
 <br>
