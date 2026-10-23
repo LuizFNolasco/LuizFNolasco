@@ -1,7 +1,5 @@
-<!-- Substitua o link abaixo pelo link da sua própria imagem de banner -->
 <div align="center">
-  
-
+  <img width="736" height="414" alt="imagem" src="https://github.com/user-attachments/assets/86cd4478-52ae-462c-9a3f-f21112f79581" />
 </div>
 
 <br>
@@ -12,6 +10,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
@@ -28,10 +27,10 @@
 
 <div align="center">
   <h3>Contato 📬</h3>
-  <a href="URL_DO_SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/luiz-felipe-pereira-nolasco/?isSelfProfile=true">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:luizfelipe.pereiranolasco@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
