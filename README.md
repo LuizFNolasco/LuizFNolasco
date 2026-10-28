@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <h3>Tecnologias e Ferramentas <img width="35" src="https://github.com/user-attachments/assets/f3002d66-32e1-4dd4-ae17-6df8e3b0315f" /> </h3>
+  <h3>Tecnologias e Ferramentas <img width="35" src="https://github.com/user-attachments/assets/288fd5a6-c72d-437e-a8f0-22066155c81a" /> </h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -26,7 +26,7 @@
 <br>
 
 <div align="center">
-  <h3>Contato <img width="35" src="https://github.com/user-attachments/assets/2bca23c8-e9e5-415d-a0af-8a15707af0f3" /> </h3>
+  <h3>Contato <img width="35" src="https://github.com/user-attachments/assets/c911c5c9-4e88-41df-a297-6593a8709e0f" /> </h3>
   <a href="https://www.linkedin.com/in/luiz-felipe-pereira-nolasco/?isSelfProfile=true">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
