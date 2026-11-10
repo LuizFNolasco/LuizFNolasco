@@ -18,9 +18,9 @@
 <br>
 
 <div align="center">
-  <h3>Minhas Estatísticas <img width="35" src="https://github.com/user-attachments/assets/31604f38-6318-416b-8092-5d130e6184e5" /> </h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=LuizFNolasco&show_icons=true&theme=tokyonight&hide_border=true&hide=issues,prs&locale=pt-br" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFNolasco&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" width="48%" />
+  <h3><img width="35" src="https://github.com/user-attachments/assets/31604f38-6318-416b-8092-5d130e6184e5" alt=""/></h3>
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=LuizFNolasco&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;hide=issues,prs&amp;locale=pt-br" alt="Estatísticas de LuizFNolasco no GitHub"/>
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LuizFNolasco&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;locale=pt-br" alt="Linguagens mais usadas nos repositórios de LuizFNolasco" />
 </div>
 
 <br>
